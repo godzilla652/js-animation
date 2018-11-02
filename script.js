@@ -140,7 +140,7 @@ function draw(){
     rect(drop.x, drop.y, drop.w, drop.h)
   }
 
-  character.move()
+  // character.move()
   ++time
   }
 
