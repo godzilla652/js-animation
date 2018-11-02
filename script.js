@@ -125,7 +125,7 @@ let drops = new Drops(347)
 let time = 0
 
 
-let character = new Character()
+//let character = new Character()
 
 function setup(){
   createCanvas(w, 670)
